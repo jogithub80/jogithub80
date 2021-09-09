@@ -7,7 +7,7 @@
 ![ReactJS](https://img.shields.io/badge/ReactJS-Beginner-orange)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-lightgrey)
 
-Recently Graduate in Front-End Web Development at [Kenzie Academy](https://www.kenzie.academy/). With a Coding enthusiast, I have real passion to learn and develop a creative mindset around the most popular programming languages. (HTML, CSS, Javascript)
+Recently Graduate in Front-End Web Development (HTML, CSS, Javascript) at [Kenzie Academy](https://www.kenzie.academy/). With a Coding enthusiast, I have real passion to learn and develop a creative mindset around the most popular programming languages.
 
 - 🔭 Associate's degree in **Information Tecknology** at Université Lumiere (Haiti)
 - 🌱 I’m currently learning **React Js** and **TypeScript**
