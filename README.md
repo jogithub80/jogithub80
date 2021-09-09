@@ -28,7 +28,7 @@ Recently Graduate in Front-End Web Development (HTML, CSS, Javascript) at [Kenzi
 - Check my **Site**: Coming Soon
 - or **e-mail** me: jorelchery1@gmail.com
 
-![Jorel Chery's github stats](https://github-readme-stats.vercel.app/api?username=jogithub80&show_icons=true&hide_border=true)
+![Jorel Chery's github stats](https://github-readme-stats.vercel.app/api?username=jogithub80&show_icons=true&hide_border=false)
 
 
 <!--
