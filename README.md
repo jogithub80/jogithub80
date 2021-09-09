@@ -1,5 +1,5 @@
 
-# Hello, I'm Federico Dondi 👋
+# Hello, I'm Jorel Chery 👋
 
 ![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)
 ![CSS](https://img.shields.io/badge/CSS-Intermediate-blue)
