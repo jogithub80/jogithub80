@@ -22,7 +22,10 @@ Recently Graduate in Front-End Web Development at [Kenzie Academy](https://www.k
 - Site: Coming Soon
 - E-mail: jorelchery1@gmail.com
 
-### 📚 Looking for my Resume? E-Mail me!
+### 📚 Looking for my Resume?
+
+- Check my **Site**: Coming Soon
+- or **e-mail** me: jorelchery1@gmail.com
 
 ![Jorel Chery's github stats](https://github-readme-stats.vercel.app/api?username=jogithub80&show_icons=true&hide_border=true)
 
