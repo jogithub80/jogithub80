@@ -17,8 +17,8 @@ Recently Graduate in Front-End Web Development at [Kenzie Academy](https://www.k
 
 ### 📬 Get in Touch
 
-- GitHub: [https://github.com/jogithub80][github]
-- LinkedIn:[linkedin.com/in/jorel-chery-57229b15a][linkedin]
+- GitHub: https://github.com/jogithub80
+- LinkedIn: https://www.linkedin.com/in/jorel-chery-57229b15a
 - Site: Coming Soon
 - E-mail: jorelchery1@gmail.com
 
