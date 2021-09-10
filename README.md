@@ -12,7 +12,7 @@ Recently Graduate in Front-End Web Development (HTML, CSS, Javascript) at [Kenzi
 - 🔭 Associate's degree in **Information Tecknology** at Université Lumiere (Haiti)
 - 🌱 I’m currently learning **React Js** and **TypeScript**
 - ⚙️ Mastering: `.html`,`.css`,`.js`
-- 🌱 And soon I'll start with **Pyton**.
+- 🌱 And soon I'll start learning **Pyton**.
 - 👯 I’m looking to collaborate on **Open Source** and/or **Web App** projects and to learn more.
 - 💬 I'm mostly active within the **UI Design**, **HTML**, **CSS** and **JavaScript** communities
 
